@@ -45,11 +45,12 @@ python client_gui.py
 
 ### Создание исполняемого файла (.exe)
 
-Чтобы использовать клиент без установки Python, компилируйте в .exe через PyInstaller:
+Чтобы использовать клиент без установки Python, компилируйте в .exe через PyInstaller.
+Если команда `pyinstaller` не найдена, используйте Python напрямую:
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile client_gui.py
+C:\Users\ivic\AppData\Local\Python\pythoncore-3.14-64\python.exe -m PyInstaller --onefile client_gui.py
 ```
 
 Исполняемый файл будет в папке `dist/`.

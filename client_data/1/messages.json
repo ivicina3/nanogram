@@ -1,0 +1,22 @@
+{
+  "chats": {
+    "private:ivic1": [
+      {
+        "kind": "text",
+        "from": "ivic1",
+        "text": "ivic",
+        "ts": "2026-05-04 19:00:41",
+        "mine": false
+      },
+      {
+        "kind": "photo",
+        "from": "1",
+        "text": "",
+        "file": "C:\\Users\\ivic\\Downloads\\nanogram\\nanogram\\client_data\\1\\media\\20260504_190054_me_02.jpg",
+        "ts": "2026-05-04 19:00:54",
+        "mine": true
+      }
+    ]
+  },
+  "avatars": {}
+}

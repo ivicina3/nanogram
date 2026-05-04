@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "client_gui.py", line 510, in <module>
+  File "client_gui.py", line 504, in main
+  File "client_gui.py", line 110, in __init__
+  File "client_gui.py", line 233, in create_widgets
+NameError: name 'chat_frame' is not defined. Did you mean: 'self.chat_frame'?

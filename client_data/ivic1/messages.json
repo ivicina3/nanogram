@@ -1,0 +1,35 @@
+{
+  "chats": {
+    "private:2": [
+      {
+        "kind": "photo",
+        "from": "ivic1",
+        "text": "",
+        "file": "C:\\Users\\ivic\\Downloads\\nanogram\\nanogram\\client_data\\ivic1\\media\\20260504_185934_me_02.jpg",
+        "ts": "2026-05-04 18:59:34",
+        "mine": true
+      }
+    ],
+    "private:ivic": [
+      {
+        "kind": "text",
+        "from": "ivic1",
+        "text": "jopa",
+        "ts": "2026-05-04 19:00:31",
+        "mine": true
+      }
+    ],
+    "private:1": [
+      {
+        "kind": "text",
+        "from": "ivic1",
+        "text": "ivic",
+        "ts": "2026-05-04 19:00:40",
+        "mine": true
+      }
+    ]
+  },
+  "avatars": {
+    "ivic1": "C:\\Users\\ivic\\Downloads\\nanogram\\nanogram\\client_data\\ivic1\\avatars\\avatar.jpg"
+  }
+}

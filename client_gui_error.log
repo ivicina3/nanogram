@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "C:\Users\ivic\Downloads\nanogram\nanogram\client_gui.py", line 679, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ivic\Downloads\nanogram\nanogram\client_gui.py", line 673, in main
+    NanogramGUI(root)
+    ~~~~~~~~~~~^^^^^^
+  File "C:\Users\ivic\Downloads\nanogram\nanogram\client_gui.py", line 34, in __init__
+    self.create_widgets()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ivic\Downloads\nanogram\nanogram\client_gui.py", line 110, in create_widgets
+    self.members_entry.insert(0, self.text("members_hint"))
+                                 ^^^^^^^^^
+AttributeError: 'NanogramGUI' object has no attribute 'text'
